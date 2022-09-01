@@ -8,5 +8,8 @@ The checkpoint file is located at https://www.dropbox.com/s/vaba8ch17cvcy8c/late
 The "Endoscopic Artefact Detection.pdf" show few slides for an overview of the project. 
 
 
-![alt text](https://github.com/isaaclo/Endoscopic_Artefact_Detection_FasterRCNN
-/blob/main/image1.jpg?raw=true)
+![alt text](https://github.com/isaaclo/Endoscopic_Artefact_Detection_FasterRCNN/blob/main/image1.jpg?raw=true)
+
+![alt text](https://github.com/isaaclo/Endoscopic_Artefact_Detection_FasterRCNN/blob/main/image2.jpg?raw=true)
+
+![alt text](https://github.com/isaaclo/Endoscopic_Artefact_Detection_FasterRCNN/blob/main/image3.jpg?raw=true)
