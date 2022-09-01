@@ -6,3 +6,7 @@ The dataset is located at https://www.dropbox.com/s/mrqvb9jp1uvw433/dataset%20%2
 The checkpoint file is located at https://www.dropbox.com/s/vaba8ch17cvcy8c/latest.pth?dl=0
 
 The "Endoscopic Artefact Detection.pdf" show few slides for an overview of the project. 
+
+
+![alt text](https://github.com/isaaclo/Endoscopic_Artefact_Detection_FasterRCNN
+/blob/main/image1.jpg?raw=true)
